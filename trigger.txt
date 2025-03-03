@@ -1,18 +1,18 @@
-postgres:15-alpine registry.cn-hangzhou.aliyuncs.com/lwppwl/postgres:15-alpine
+postgres:15-alpine crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/postgres:15-alpine
 
-semitechnologies/weaviate:1.19.0 registry.cn-hangzhou.aliyuncs.com/lwppwl/weaviate:1.19.0
+semitechnologies/weaviate:1.19.0 crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/weaviate:1.19.0
 
-nginx:latest registry.cn-hangzhou.aliyuncs.com/lwppwl/nginx:latest
+nginx:latest crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/nginx:latest
 
-redis:6-alpine registry.cn-hangzhou.aliyuncs.com/lwppwl/redis:6-alpine
+redis:6-alpine crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/redis:6-alpine
 
-langgenius/dify-sandbox:0.2.10 registry.cn-hangzhou.aliyuncs.com/lwppwl/dify-sandbox:0.2.10
+langgenius/dify-sandbox:0.2.10 crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/dify-sandbox:0.2.10
 
-ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/lwppwl/squid:latest
+ubuntu/squid:latest crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/squid:latest
 
-langgenius/dify-plugin-daemon:0.0.3-local registry.cn-hangzhou.aliyuncs.com/lwppwl/dify-plugin-daemon:0.0.3-local
+langgenius/dify-plugin-daemon:0.0.3-local crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/dify-plugin-daemon:0.0.3-local
 
-langgenius/dify-web:1.0.0 registry.cn-hangzhou.aliyuncs.com/lwppwl/dify-web:1.0.0
+langgenius/dify-web:1.0.0 crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/dify-web:1.0.0
 
-langgenius/dify-api:1.0.0 registry.cn-hangzhou.aliyuncs.com/lwppwl/dify-api:1.0.0
+langgenius/dify-api:1.0.0 crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/dify-api:1.0.0
 
