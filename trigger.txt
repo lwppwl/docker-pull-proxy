@@ -15,4 +15,3 @@ langgenius/dify-plugin-daemon:0.0.3-local crpi-1kebnbfy9n00nwoe.cn-hangzhou.pers
 langgenius/dify-web:1.0.0 crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/dify-web:1.0.0
 
 langgenius/dify-api:1.0.0 crpi-1kebnbfy9n00nwoe.cn-hangzhou.personal.cr.aliyuncs.com/lwppwl/dify-api:1.0.0
-
